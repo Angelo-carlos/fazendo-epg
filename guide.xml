@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN [Alter]">
+    <display-name lang="pt">AXN [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200115004500 -0400" stop="20200115014000 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115014000 -0400" stop="20200115023500 -0400" channel="AXN [Alter]">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115023500 -0400" stop="20200115033000 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115033000 -0400" stop="20200115042000 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115042000 -0400" stop="20200115051000 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115051000 -0400" stop="20200115060000 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115060000 -0400" stop="20200115070000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115070000 -0400" stop="20200115080000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115080000 -0400" stop="20200115090000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115090000 -0400" stop="20200115100000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115100000 -0400" stop="20200115110000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115110000 -0400" stop="20200115115500 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115115500 -0400" stop="20200115125000 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115125000 -0400" stop="20200115134500 -0400" channel="AXN [Alter]">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115134500 -0400" stop="20200115144000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115144000 -0400" stop="20200115153500 -0400" channel="AXN [Alter]">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115153500 -0400" stop="20200115163000 -0400" channel="AXN [Alter]">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115163000 -0400" stop="20200115172500 -0400" channel="AXN [Alter]">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115172500 -0400" stop="20200115182000 -0400" channel="AXN [Alter]">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115182000 -0400" stop="20200115191500 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115191500 -0400" stop="20200115201000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115201000 -0400" stop="20200115210500 -0400" channel="AXN [Alter]">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115210500 -0400" stop="20200115220000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115220000 -0400" stop="20200115225500 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115225500 -0400" stop="20200115235000 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200115235000 -0400" stop="20200116004500 -0400" channel="AXN [Alter]">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
